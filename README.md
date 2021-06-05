@@ -1,7 +1,7 @@
 # Overview
-The dataset used contains information on the sales and user/critic scores for video games that were sold before 2016. This information was obtained by scraping the website Metacritic.  
-
 I wrote this program to learn what games were popular in Japan versus North America, especially for Wii games. The data needed to be able to be displayed in graph form. So, I found a dataset and got to work!
+
+The dataset used contains information on the sales and user/critic scores for video games that were sold before 2016. This information was obtained by scraping the website Metacritic.  
 
 [Video Game Sales Dataset](https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings)  
 [Software Demo Video](https://youtu.be/FjRroXOOmxo)
