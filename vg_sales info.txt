@@ -1,0 +1,10 @@
+Alongside the fields: Name, Platform, YearofRelease, Genre, Publisher, NASales, EUSales, JPSales, OtherSales, Global_Sales, we have:-
+
+Critic_score - Aggregate score compiled by Metacritic staff
+Criticcount - The number of critics used in coming up with the Criticscore
+User_score - Score by Metacritic's subscribers
+Usercount - Number of users who gave the userscore
+Developer - Party responsible for creating the game
+Rating - The ESRB ratings
+
+Data scraped on 22_Dec_2016
